@@ -8,7 +8,8 @@ This directory includes original json files, the filtered files, and Jupyter not
 # Exploratory Data Analysis 
 This directory includes EDA performed on the files for Tacobell and Chipotle
 
-
+# Slides 
+This directory includes the preliminary presentation and final presentation slides
 
 # Final Model 
 This directory includes the script we used for our final model as well as some predictions and diagnosis   
