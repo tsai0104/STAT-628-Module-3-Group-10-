@@ -17,5 +17,5 @@ This directory includes the script we used for our final model as well as some p
 # Shiny App [link](https://tinghuixu1114.shinyapps.io/)
 This directory includes the R script to build the web-based shiny app based on the final model we got.
 
-# Summary and Presentation
+# Summary and Slides
 This directory includes the pdf file of our executive summary and presentation slide for this project
