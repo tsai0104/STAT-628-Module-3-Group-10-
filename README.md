@@ -8,6 +8,9 @@ This directory includes original json files, the filtered files, and Jupyter not
 # Exploratory Data Analysis 
 This directory includes EDA performed on the files for Tacobell and Chipotle
 
+# Aspect
+This directory includes code for aspect based sentiment analysis 
+
 # Slides 
 This directory includes the preliminary presentation and final presentation slides
 
