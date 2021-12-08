@@ -14,6 +14,6 @@ This directory includes all figures and images produced during EDA and subsequen
 # Summary and Slides 
 This directory includes the preliminary presentation and final presentation slides as well as the executive summary 
 
-# Shiny App [link](https://tinghuixu1114.shinyapps.io/)
+# Shiny App [link](https://tinghuixu1114.shinyapps.io/chipotleanalyzer/)
 This directory includes the R script to build the web-based shiny app.
 
