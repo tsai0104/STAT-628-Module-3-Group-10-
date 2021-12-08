@@ -6,7 +6,7 @@ Group members: Brian Tsai, Tinghui Xu, Lanxin Xiang
 This directory includes the code and Jupyter notebook of the data cleaning/filtering process as well as Exploratory Data Analysis. 
 
 # Aspect 
-This directory includes code for aspect based sentiment analysis as well as code for generating suggestions in the Shiny App. 
+This directory includes code for LDA, aspect based sentiment analysis as well as code for generating suggestions in the Shiny App. 
 
 # Summary and Slides 
 This directory includes the preliminary presentation and final presentation slides as well as the executive summary 
